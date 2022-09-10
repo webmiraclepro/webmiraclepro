@@ -1,4 +1,4 @@
-##Senior blockchain & full-stack DEV
+<h1 align="center">Senior blockchain & full-stack DEV</h3>
 - 👋 Hi, I’m @webmiraclepro
 - 📫 How to reach me: webmiraclepro@gmail.com
 
