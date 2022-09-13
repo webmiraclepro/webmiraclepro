@@ -45,7 +45,7 @@ Best regards!!!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webmiraclepro&show_icons=true&locale=en&layout=compact" alt="webmiraclepro" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=webmiraclepro&show_icons=true&locale=en" alt="webmiraclepro" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webmiraclepro&show_icons=true&locale=en" alt="webmiraclepro" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=webmiraclepro&" alt="webmiraclepro" /></p>
 
