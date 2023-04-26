@@ -1,4 +1,4 @@
-<h1 align="center">Senior blockchain & full-stack DEV</h3>
+<h1 align="center">Senior blockchain & full-stack DEV & AI Enthusiast</h3>
 - 👋 Hi, I’m @webmiraclepro
 <!-- - 📫 How to reach me: webmiraclepro@gmail.com -->
 
@@ -11,12 +11,14 @@ You can click the Preview link to take a look at your changes.
 My skills are:  
 
 -   Ethereum, Solidity, Algorand, Reach, Smart contract, Solana, Rust, NFT, web3, Polygon  
+-   OpenAI, LangChain, ChatGPT, GPT-4, Pinecone, NLP, LLM, Deep Learning, Keras, Tensorflow
 -   Javascript, ES6/ES7, Typescript  
 -   React.js with Redux, React Hooks, Styled Components  
+-   Python, Django, Flask, FastAPI, Celery
 -   TypeORM, Sequelize for ORM  
 -   TDD(Test Driven Dev) with Unit Test(Jest, Enzyme, Mocha, Chai), E2E test(Cypress), Sentry.io  
 -   Gatsby, Next.js for contentful & SSR  
--   Laravel MVC pattern, ExpressJS, Python/Django, ASP.NET, C#  
+-   Laravel MVC pattern, ExpressJS, ASP.NET, C#  
 -   Vue, Angular, AngularJS  
 -  Moralis, IPFS, MySQL, MongoDB, NoSQL, PostgreSQL, MariaDB, MSSQL, DB Optimization, SQL programming, DB Design  
 -   Tailwind CSS, Material UI/Kit, Ant Design, SCSS  
